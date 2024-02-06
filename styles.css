@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color: cornsilk;
+}
+@font-face {
+    font-family: cute;
+    src: url(font/CuteFont-Regular.ttf);
+}
+.negro {
+    background-color: black;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+}
+.blanco {
+    background-color: whitesmoke;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+}
